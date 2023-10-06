@@ -1,1 +1,10 @@
-# is373DockerTownPhill
+__pycache__
+config.py
+docker-compose.yml
+Dockerfile
+LICENSE
+main.py
+qrcodegenerator
+README.md
+requirements.txt
+static
